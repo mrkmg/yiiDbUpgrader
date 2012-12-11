@@ -12,7 +12,7 @@ Usage
 =====
 
 - Create a folder in your Yii data folder (`protected/data`) called `dbversion`.
-- Each time youo make changes to the database, place the sql code for those changes into numbered sql files in that directory. The follow are both valid:
+- Each time you make changes to the database, place the sql code for those changes into numbered sql files in that directory. The follow are both valid:
 
 ```
 1.sql
