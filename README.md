@@ -6,7 +6,7 @@ Yii DbUpgrader Component can be used to automate upgrading a database to a new v
 Installation
 ============
 
-Copy `DbUpgrader` to `protected/components/`
+Copy `DbUpgrader.php` to `protected/components/`
 
 Usage
 =====
