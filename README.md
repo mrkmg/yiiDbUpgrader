@@ -36,6 +36,7 @@ $dbu->runUpgrade();
 ```
 
 - If you want a verbose output (useful for cli access and logging)
+
 ```php
 $dbu = new DbUpgrader;
 $dbu->runUpgrade(true);
