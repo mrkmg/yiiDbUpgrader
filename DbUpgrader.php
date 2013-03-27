@@ -1,5 +1,13 @@
 <?php
 
+/* DbUpgrader
+ * 
+ * A Yii Component to automate a MySQL database upgrade process 
+ *
+ * MIT License (http://opensource.org/licenses/MIT)
+ *
+*/
+
 class DbUpgrader
 {
     private $files = array();
